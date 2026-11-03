@@ -1,5 +1,8 @@
-number =int(input("enter an integer: "))
-if number %2 ==0:
-    print("the number is even")
-else:
-    print("the number is odd")
+total =0
+for count in range(5):
+    number = float(input("enter a number: "))
+    total  += Number
+
+
+avarage = total/5
+print("avarage =", avarage)
